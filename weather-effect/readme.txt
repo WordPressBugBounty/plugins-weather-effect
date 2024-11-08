@@ -3,9 +3,9 @@ Contributors: awordpresslife, razipathhan, hanif0991, muhammadshahid, fkfaisalkh
 Donate link: https://paypal.me/awplife
 Tags: snow falling, christmas effect, valentine effect, weather effect, winter effect
 Requires at least: 4.0
-Tested up to: 6.6.1
+Tested up to: 6.6.2
 Requires PHP: 5.0
-Stable tag: 1.5.3
+Stable tag: 1.5.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -231,6 +231,10 @@ https://wordpress.org/support/plugin/weather-effect/
 
 == Changelog ==
 
+
+Version 1.5.4
+
+* Testing plugin for wordpress 6.6.2
 
 Version 1.5.3
 
