@@ -5,7 +5,7 @@ Tags: snow falling, christmas effect, valentine effect, weather effect, winter e
 Requires at least: 4.0
 Tested up to: 6.7.1
 Requires PHP: 5.0
-Stable tag: 1.5.5
+Stable tag: 1.5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -231,6 +231,11 @@ https://wordpress.org/support/plugin/weather-effect/
 
 == Changelog ==
 
+
+Version 1.5.6
+
+* Testing plugin for wordpress 6.7.1
+* Fatal error Fixed On multiple site
 
 Version 1.5.5
 
