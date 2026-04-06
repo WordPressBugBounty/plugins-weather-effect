@@ -17,6 +17,14 @@ Weather Effect lets you add animated falling objects to your website. You can di
 
 The plugin works by overlaying animated elements on your pages. Visitors see these effects as they browse your site, which can help create a seasonal atmosphere or celebrate special occasions.
 
+= Demo and Documentation =
+
+* [Free Version Demo](https://awplife.com/demo/weather-effect-wordpress-plugin/)
+* [Pro Version Demo](https://awplife.com/demo/weather-effect/)
+* [Try Admin Demo](https://awplife.com/demo/weather-effect-premium-admin-demo/)
+* [Documentation](https://awplife.com/wordpress-plugins/weather-effect-wordpress-plugin/)
+* [Get Pro Version](https://awplife.com/account/signup/weather-effect-premium)
+
 https://www.youtube.com/watch?v=0ffKTyBsVbw
 
 = What This Plugin Does =
@@ -71,14 +79,6 @@ The pro version includes additional falling objects and customization options:
 * Exclude specific pages or posts
 * Upload up to 10 custom images (PNG, JPEG, GIF supported)
 * Enable or disable effects easily
-
-= Demo and Documentation =
-
-* [Free Version Demo](https://awplife.com/demo/weather-effect-wordpress-plugin/)
-* [Pro Version Demo](https://awplife.com/demo/weather-effect/)
-* [Try Admin Demo](https://awplife.com/demo/weather-effect-premium-admin-demo/)
-* [Documentation](https://awplife.com/wordpress-plugins/weather-effect-wordpress-plugin/)
-* [Get Pro Version](https://awplife.com/account/signup/weather-effect-premium)
 
 == Frequently Asked Questions ==
 
