@@ -1,11 +1,11 @@
-﻿=== AWPLife Weather Effects ===
+=== AWPLife Weather Effects ===
 Contributors: awordpresslife, razipathhan, hanif0991, muhammadshahid, fkfaisalkhan007, sharikkhan007, zishlife, FARAZFRANK
 Donate link: https://paypal.me/awplife
 Tags: weather, snow, snowfall, christmas, halloween
 Requires at least: 4.0
 Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 1.5.9
+Stable tag: 1.6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -159,6 +159,14 @@ Post your questions on the [WordPress.org support forum](https://wordpress.org/s
 
 == Changelog ==
 
+= 1.6.0 =
+* Security: Hardened administrative settings with capability checks and nonces.
+* Security: Implemented robust output escaping and sanitization across all frontend effects.
+* Standards: Migrated asset loading to standard WordPress hooks (wp_enqueue_scripts/wp_footer).
+* Standards: Applied unique prefixes to all constants and functions to prevent namespace collisions.
+* Feature: Added new "Our Themes" and "Our Plugins" submenus to showcase the ecosystem.
+* Optimization: Removed unused files and optimized database queries.
+
 = 1.5.9 =
 * Tested: WordPress 6.8.3 compatibility
 
@@ -194,6 +202,9 @@ Post your questions on the [WordPress.org support forum](https://wordpress.org/s
 * Tested: WordPress 6.4.2 compatibility
 
 == Upgrade Notice ==
+
+= 1.6.0 =
+Major security and performance refactor. Recommended update for all users.
 
 = 1.5.9 =
 Tested with WordPress 6.8.3 - Recommended update for all users.
